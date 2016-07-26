@@ -1,4 +1,4 @@
-var sourceCode = <<"ENDOFGAME"
+var sourceCode = `
 title Boxes & Balloons
 author Ben Reilly
 homepage ben-reilly.com
@@ -687,4 +687,4 @@ Message Level 22
 ##############b######
 ##############b######
 #####################
-ENDOFGAME
+`
