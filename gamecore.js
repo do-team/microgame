@@ -1,4 +1,5 @@
-var sourceCode="title Boxes & Balloons
+var sourceCode = <<"ENDOFGAME"
+title Boxes & Balloons
 author Ben Reilly
 homepage ben-reilly.com
 color_palette amiga
@@ -685,4 +686,5 @@ Message Level 22
 ##############b######
 ##############b######
 ##############b######
-#####################";
+#####################
+ENDOFGAME
