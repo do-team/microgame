@@ -373,7 +373,7 @@ Message Version 1.2
 Message Level 1
 
 ##########
-##tcc.####
+##tccc####
 ##l##.####
 ##l#..####
 ##l#..####
