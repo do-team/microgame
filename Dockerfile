@@ -2,7 +2,6 @@ FROM ubuntu:16.04
 MAINTAINER Dave <davesade42@gmail.com>
 RUN apt-get update
 RUN apt-get install apache2 -y
-RUN chkconfig httpd on
 COPY boxes.js /var/www/html
 COPY engine.js /var/www/html
 COPY index.html /var/www/html
